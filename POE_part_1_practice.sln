@@ -5,11 +5,6 @@ VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POE_part_1_practice", "POE_part_1_practice.csproj", "{F7B07619-8AE4-401B-8A06-B54BAD03E6D2}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Audio1", "Audio1", "{CA68E56E-1E77-4537-9414-92951D94837F}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\Downloads\WelcomeProg.wav = ..\..\..\Downloads\WelcomeProg.wav
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
